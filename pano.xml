@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20895" hassounds="0" start="node5" appversion="7.1.1a">
+  <panorama id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" levelbias="0.400" height="3664" leveltilesize="510" width="3664">
+      <level height="3664" preload="0" predecode="0" width="3664"/>
+      <level height="1832" preload="0" predecode="0" width="1832"/>
+      <level height="916" preload="0" predecode="0" width="916"/>
+      <level height="458" preload="1" predecode="1" width="458"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-0.26" fov="120" pan="24.01"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" author="James Lee" longitude="120.58989108" datetime="2024/7/2 15:51" comment="" source="" nodeid="node5" title="休息聽" latitude="24.11108340" tags="VT" customnodeid="" copyright="jp-image.space" description="休息聽" heading="0"/>
+    <hotspots wordwrap="1" smoothmovement="0" height="20" width="180">
+      <label backgroundalpha="1" textalpha="1" borderradius="1" textcolor="0x000000" enabled="1" borderalpha="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="20" bordercolor="0x000000" background="1" width="180"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot title="SPA區" tilt="-4.2" url="{node6}" skinid="ht_node" id="Point01" pan="-89.06" description="SPA區" target="$fwd"/>
+      <hotspot title="湯屋走道" tilt="0.32" url="{node4}" skinid="ht_node" id="Point02" pan="-286.46" description="湯屋走道" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" delay="none" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" zoomspeed="2" zoomfov="40" zoomout="0" zoomin="0" zoomafterinfov="140" zoomafteroutfov="40" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" contextfullscreen="1" contextvr="1" simulatemass="1" lockedkeyboard="0" rubberband="0" zoomcentercursor="1" invertwheel="0" invertcontrol="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" speedwheel="1" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" levelbias="0.400" height="3662" leveltilesize="510" width="3662">
+      <level height="3662" preload="0" predecode="0" width="3662"/>
+      <level height="1831" preload="0" predecode="0" width="1831"/>
+      <level height="915" preload="0" predecode="0" width="915"/>
+      <level height="457" preload="1" predecode="1" width="457"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="94.9954">
+      <start projection="4" tilt="0" fov="120" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" author="James Lee" longitude="" datetime="2024/7/2 15:54" comment="" source="" nodeid="node6" title="SPA區" latitude="" tags="VT" customnodeid="" copyright="jp-image.space" description="SPA區" heading="94.9954"/>
+    <hotspots wordwrap="1" smoothmovement="0" height="20" width="180">
+      <label backgroundalpha="1" textalpha="1" borderradius="1" textcolor="0x000000" enabled="1" borderalpha="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="20" bordercolor="0x000000" background="1" width="180"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot title="休息聽" tilt="1.35" url="{node5}" skinid="ht_node" id="Point01" pan="-167.67" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" delay="none" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" zoomspeed="2" zoomfov="40" zoomout="0" zoomin="0" zoomafterinfov="140" zoomafteroutfov="40" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" contextfullscreen="1" contextvr="1" simulatemass="1" lockedkeyboard="0" rubberband="0" zoomcentercursor="1" invertwheel="0" invertcontrol="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" speedwheel="1" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" levelbias="0.400" height="3666" leveltilesize="510" width="3666">
+      <level height="3666" preload="0" predecode="0" width="3666"/>
+      <level height="1833" preload="0" predecode="0" width="1833"/>
+      <level height="916" preload="0" predecode="0" width="916"/>
+      <level height="458" preload="1" predecode="1" width="458"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-92.7123">
+      <start projection="4" tilt="0" fov="120" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" author="James Lee" longitude="" datetime="2024/7/2 15:57" comment="" source="" nodeid="node4" title="湯屋走道" latitude="" tags="VT" customnodeid="" copyright="jp-image.space" description="湯屋走道" heading="-92.7123"/>
+    <hotspots wordwrap="1" smoothmovement="0" height="20" width="180">
+      <label backgroundalpha="1" textalpha="1" borderradius="1" textcolor="0x000000" enabled="1" borderalpha="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="20" bordercolor="0x000000" background="1" width="180"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot title="男湯入口置物櫃區" tilt="-1.18" url="{node1}" skinid="ht_node" id="Point01" pan="-266.83" description="男湯入口" target="$fwd"/>
+      <hotspot title="休息聽" tilt="-0.6" url="{node5}" skinid="ht_node" id="Point02" pan="-200.44" description="休息聽" target="$fwd"/>
+      <hotspot title="岩盤浴" tilt="0.93" url="" skinid="ht_gallery" id="Point03" pan="-14.48" description="Gallery2" target="_blank"/>
+      <hotspot title="男湯" tilt="1.76" url="" skinid="ht_gallery" id="Point04" pan="-297.2" description="Gallery1" target="_blank"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" delay="none" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" zoomspeed="2" zoomfov="40" zoomout="0" zoomin="0" zoomafterinfov="140" zoomafteroutfov="40" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" contextfullscreen="1" contextvr="1" simulatemass="1" lockedkeyboard="0" rubberband="0" zoomcentercursor="1" invertwheel="0" invertcontrol="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" speedwheel="1" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" levelbias="0.400" height="3666" leveltilesize="510" width="3666">
+      <level height="3666" preload="0" predecode="0" width="3666"/>
+      <level height="1833" preload="0" predecode="0" width="1833"/>
+      <level height="916" preload="0" predecode="0" width="916"/>
+      <level height="458" preload="1" predecode="1" width="458"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-90.0018">
+      <start projection="4" tilt="0" fov="120" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" author="James Lee" longitude="" datetime="2024/7/2 16:00" comment="" source="" nodeid="node1" title="男湯入口置物櫃區" latitude="" tags="VT" customnodeid="" copyright="jp-image.space" description="男湯入口置物櫃區" heading="-90.0018"/>
+    <hotspots wordwrap="1" smoothmovement="0" height="20" width="180">
+      <label backgroundalpha="1" textalpha="1" borderradius="1" textcolor="0x000000" enabled="1" borderalpha="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="20" bordercolor="0x000000" background="1" width="180"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot title="男湯休息區" tilt="-2.53" url="{node2}" skinid="ht_node" id="Point01" pan="-340.93" description="男湯休息區" target="$fwd"/>
+      <hotspot title="湯屋走道" tilt="0.2" url="{node4}" skinid="ht_node" id="Point02" pan="-95.29" description="走道" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" delay="none" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" zoomspeed="2" zoomfov="40" zoomout="0" zoomin="0" zoomafterinfov="140" zoomafteroutfov="40" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" contextfullscreen="1" contextvr="1" simulatemass="1" lockedkeyboard="0" rubberband="0" zoomcentercursor="1" invertwheel="0" invertcontrol="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" speedwheel="1" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" levelbias="0.400" height="3664" leveltilesize="510" width="3664">
+      <level height="3664" preload="0" predecode="0" width="3664"/>
+      <level height="1832" preload="0" predecode="0" width="1832"/>
+      <level height="916" preload="0" predecode="0" width="916"/>
+      <level height="458" preload="1" predecode="1" width="458"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-96.5743">
+      <start projection="4" tilt="0" fov="120" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" author="James Lee" longitude="" datetime="2024/7/2 16:03" comment="" source="" nodeid="node2" title="男湯休息區" latitude="" tags="VT" customnodeid="" copyright="jp-image.space" description="男湯休息區" heading="-96.5743"/>
+    <hotspots wordwrap="1" smoothmovement="0" height="20" width="180">
+      <label backgroundalpha="1" textalpha="1" borderradius="1" textcolor="0x000000" enabled="1" borderalpha="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="20" bordercolor="0x000000" background="1" width="180"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot title="男湯入口置物櫃區" tilt="-1.68" url="{node1}" skinid="ht_node" id="Point01" pan="-62.64" description="男湯入口" target="$fwd"/>
+      <hotspot title="男湯湯池" tilt="0.84" url="{node3}" skinid="ht_node" id="Point02" pan="-284.01" description="男湯湯池" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" delay="none" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" zoomspeed="2" zoomfov="40" zoomout="0" zoomin="0" zoomafterinfov="140" zoomafteroutfov="40" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" contextfullscreen="1" contextvr="1" simulatemass="1" lockedkeyboard="0" rubberband="0" zoomcentercursor="1" invertwheel="0" invertcontrol="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" speedwheel="1" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" levelbias="0.400" height="3663" leveltilesize="510" width="3663">
+      <level height="3663" preload="0" predecode="0" width="3663"/>
+      <level height="1831" preload="0" predecode="0" width="1831"/>
+      <level height="915" preload="0" predecode="0" width="915"/>
+      <level height="457" preload="1" predecode="1" width="457"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-178.515">
+      <start projection="4" tilt="0" fov="120" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" author="James Lee" longitude="" datetime="2024/7/2 16:07" comment="" source="" nodeid="node3" title="男湯湯池" latitude="" tags="VT" customnodeid="" copyright="jp-image.space" description="男湯湯池" heading="-178.515"/>
+    <hotspots wordwrap="1" smoothmovement="0" height="20" width="180">
+      <label backgroundalpha="1" textalpha="1" borderradius="1" textcolor="0x000000" enabled="1" borderalpha="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="20" bordercolor="0x000000" background="1" width="180"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot title="男湯休息區" tilt="0.43" url="{node2}" skinid="ht_node" id="Point01" pan="-177.2" description="男湯休息區" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" delay="none" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" zoomspeed="2" zoomfov="40" zoomout="0" zoomin="0" zoomafterinfov="140" zoomafteroutfov="40" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" contextfullscreen="1" contextvr="1" simulatemass="1" lockedkeyboard="0" rubberband="0" zoomcentercursor="1" invertwheel="0" invertcontrol="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" speedwheel="1" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="James Lee" title="烏日璞旅" tags="" copyright="爵攝數位影像工作室" description="SPA會館" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map mapstyle="streets" type="web" index="0" mapprovider="openstreetmap" googlecustomstylecode="" mapmaxzoom="18" title="烏日璞旅" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" id="Map01"/>
+</tour>

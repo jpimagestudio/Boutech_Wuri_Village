@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20895" hassounds="0" start="node1" appversion="7.1.1a">
+  <panorama id="node1">
+    <input overlap="1" cylinder="1" flat="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="800" width="1200" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400">
+      <level width="1200" predecode="0" height="800" preload="0"/>
+      <level width="600" predecode="0" height="400" preload="0"/>
+      <level width="300" predecode="1" height="200" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" fov="500" projection="4" tilt="0"/>
+      <flyin pan="0" fov="50" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" scaletofit="0" tilt="90"/>
+    </view>
+    <userdata nodeid="node1" title="岩盤浴" latitude="" tags="Gallery" longitude="" heading="0" source="" description="岩盤浴" copyright="jp-image.space" author="James Lee" customnodeid="" info="" datetime="2024/7/1 18:56" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label borderradius="1" enabled="1" wordwrap="1" background="1" height="20" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" border="1" textalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" delay="none" zoomin="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" zoomafteroutfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomout="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control invertwheel="0" lockedmouse="0" invertcontrol="1" simulatemass="1" speedwheel="1" contextfullscreen="1" contextvr="1" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" contextprojections="0" hideabout="0" rubberband="0" zoomcentercursor="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input overlap="1" cylinder="1" flat="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="800" width="1200" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400">
+      <level width="1200" predecode="0" height="800" preload="0"/>
+      <level width="600" predecode="0" height="400" preload="0"/>
+      <level width="300" predecode="1" height="200" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node2" title="岩盤浴" latitude="" tags="Gallery" longitude="" heading="0" source="" description="岩盤浴" copyright="jp-image.space" author="James Lee" customnodeid="" info="" datetime="2024/7/1 19:00" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label borderradius="1" enabled="1" wordwrap="1" background="1" height="20" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" border="1" textalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" delay="none" zoomin="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" zoomafteroutfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomout="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control invertwheel="0" lockedmouse="0" invertcontrol="1" simulatemass="1" speedwheel="1" contextfullscreen="1" contextvr="1" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" contextprojections="0" hideabout="0" rubberband="0" zoomcentercursor="1" lockedkeyboard="0"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" author="" title="岩盤浴" tags="" comment="" description="岩盤浴"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
